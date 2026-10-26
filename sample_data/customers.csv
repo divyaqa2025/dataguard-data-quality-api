@@ -1,0 +1,8 @@
+name,email,amount
+Asha Rao,asha@example.com,120.5
+Ravi Kumar,ravi@example.com,0
+Meena,invalid-email,42
+,blankname@example.com,18
+Duplicate One,repeat@example.com,15
+Duplicate Two,REPEAT@example.com,22
+Kiran,kiran@example.com,-7
